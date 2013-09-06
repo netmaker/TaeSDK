@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="GBK"?>
+<module>
+    <id>tshop-um-header</id>
+    <uuid>04cda4bdc49b4b3e88896b80b34a9752</uuid>
+    <name>店头招牌</name>
+    <file>tshop-um-header.php</file>
+    <thumbnail>../../assets/images/default-thumbnail.png</thumbnail>
+    <description></description>
+    <requiredCache>true</requiredCache>
+    <supportedWidth>190,550,750,950</supportedWidth>
+    <app-key></app-key>
+    <themes default="默认">
+        <theme name="默认">
+            <css>assets/stylesheets/default.css</css>
+        </theme>
+    </themes>
+</module>

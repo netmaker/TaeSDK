@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="GBK"?>
+<module>
+    <id>tshop-um-fly-service-center</id>
+    <uuid>7849444e5bd4459b80060458480b845a</uuid>
+    <name>悬浮客户服务</name>
+    <file>tshop-um-fly-service-center.php</file>
+    <thumbnail>../../assets/images/default-thumbnail.png</thumbnail>
+    <description></description>
+    <requiredCache>true</requiredCache>
+    <supportedWidth>190,550,750,950</supportedWidth>
+    <app-key></app-key>
+    <themes default="默认">
+        <theme name="默认">
+            <css>assets/stylesheets/default.css</css>
+        </theme>
+    </themes>
+</module>
