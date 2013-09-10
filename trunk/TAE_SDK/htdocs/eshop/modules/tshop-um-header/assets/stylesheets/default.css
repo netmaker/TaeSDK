@@ -13,6 +13,102 @@
 
 .tshop-um-header >div {display:block;}
  
+
+
+.tshop-um-header .top-notifications { 
+	background-color: #000; 
+	color: #fff; 
+	height: 40px;  
+	width: 950px;
+	}
+
+.tshop-um-header .top-notifications .news-wrap { 
+	float: left; 
+	width: 345px;
+  height: 20px;
+  padding-top: 10px;
+	}
+	
+
+.tshop-um-header .top-notifications .news-wrap .news-ico { 
+width: 22px;
+height: 20px;
+float: left;
+margin-left: 1em;
+overflow: hidden;
+background: url('assets/images/s-ico.gif') no-repeat 2px -68px;	
+	}
+	
+
+.tshop-um-header .top-notifications .news-wrap .gd-news 
+{ 
+	width: 300px;
+float: left;
+font-size: 14px;
+line-height: 15px;
+height: 18px;
+overflow: hidden;
+margin-left: 0px; 
+top: 0px;
+}
+
+.tshop-um-header .top-notifications .news-wrap .gd-news ul 
+{
+	list-style: none;
+	margin: 0 1em;
+} 
+
+.tshop-um-header .top-notifications .news-wrap .gd-news ul li
+{
+	text-align: left;
+	line-height: 18px;
+	width: 300px;
+	height: 18px;
+}
+
+
+.tshop-um-header .top-notifications .news-wrap .gd-news ul li a 
+{
+	color: #fff;
+}
+
+.tshop-um-header .top-notifications .welcomeinfo { 
+	float: left; 
+	margin-top: 10px;
+	font-size: 14px;
+	color: #1952F7;
+	line-height: 18px;
+	letter-spacing:2px
+	}
+
+.tshop-um-header .top-notifications .imginfo { 
+	float: right; 
+	margin-top: 10px;
+	margin-right: 1em;
+	}
+
+.tshop-um-header .top-notifications .imginfo a { 
+	color: #FFF; 
+	display: inline-block;
+  margin-left: 8px;
+  padding-left: 15px;
+  line-height: 18px;
+  float: left;
+  font-size: 14px;
+}
+
+.tshop-um-header .top-notifications .imginfo a.myorder {
+	background: url('assets/images/s-ico.gif') no-repeat 0px 4px;
+}
+
+.tshop-um-header .top-notifications .imginfo a.mygwc {
+  background: url('assets/images/s-ico.gif') no-repeat 0px -20px;
+}
+
+.tshop-um-header .top-notifications .imginfo a.myfav {
+  background: url('assets/images/s-ico.gif') no-repeat 0px -43px;
+}
+
 .tshop-um-header .logo {margin: 2px 2px;float:left;width:200px;}
 
 .tshop-um-header .logo a {text-decoration: none; }
@@ -67,102 +163,7 @@
 	float: left;
 } 
 
-.tshop-um-header .certificates .bookmark-shop{
+.tshop-um-header .certificates .bookmark-shop
 {
 	float: left;
-}
-
-
-.tshop-um-header .top-notifications { 
-	background-color: black; 
-	color: #fff; height: 40px;  
-	z-index: 50;
-	}
-
-.tshop-um-header .top-notifications .news-warp { 
-	float: left; 
-	width: 345px;
-  height: 20px;
-  left: 0px;
-  padding-top: 10px;
-	}
-	
-
-.tshop-um-header .top-notifications .news-warp .news-ico { 
-width: 22px;
-height: 20px;
-float: left;
-margin-left: 1em;
-overflow: hidden;
-background: url('assets/images/s-ico.gif') no-repeat 2px -68px;	
-	}
-	
-
-.tshop-um-header .top-notifications .news-warp .gd-news 
-{ 
-	width: 300px;
-float: left;
-font-size: 14px;
-line-height: 15px;
-height: 18px;
-overflow: hidden;
-margin-left: 0px; 
-top: 0px;
-}
-
-.tshop-um-header .top-notifications .news-warp .gd-news ul 
-{
-	list-style: none;
-	margin: 0 1em;
-} 
-
-.tshop-um-header .top-notifications .news-warp .gd-news ul li
-{
-	text-align: left;
-	line-height: 18px;
-	width: 300px;
-	height: 18px;
-}
-
-
-.tshop-um-header .top-notifications .news-warp .gd-news ul li a 
-{
-	color: #fff;
-}
-
-.tshop-um-header .top-notifications .welcomeinfo { 
-	float: left; 
-	margin-top: 10px;
-	font-size: 14px;
-	color: #1952F7;
-	line-height: 18px;
-	letter-spacing:2px
-	}
-
-.tshop-um-header .top-notifications .imginfo { 
-	float: right; 
-	margin-top: 10px;
-	margin-right: 1em;
-	}
-
-.tshop-um-header .top-notifications .imginfo a { 
-	color: #FFF; 
-	display: inline-block;
-  margin-left: 8px;
-  padding-left: 15px;
-  line-height: 18px;
-  float: left;
-  font-size: 14px;
-}
-
-.tshop-um-header .top-notifications .imginfo a.myorder {
-	background: url('assets/images/s-ico.gif') no-repeat 0px 4px;
-}
-
-.tshop-um-header .top-notifications .imginfo a.mygwc {
-  background: url('assets/images/s-ico.gif') no-repeat 0px -20px;
-}
-
-.tshop-um-header .top-notifications .imginfo a.myfav {
-  background: url('assets/images/s-ico.gif') no-repeat 0px -43px;
 }

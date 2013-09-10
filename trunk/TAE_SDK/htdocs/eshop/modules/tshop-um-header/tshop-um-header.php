@@ -15,7 +15,7 @@
 <div class="tb-module tshop-um tshop-um-header">
 	
 <div class="top-notifications">
-<div class="news-warp">
+<div class="news-wrap">
 	<div class="news-ico"></div>
 	<div class="J_TWidget gd-news" data-widget-type="Slide" data-widget-config="{'contentCls':'news-items','hasTriggers':false,'effect':'scrolly','easing':'easeOutStrong','interval':5,'duration':0.5}">
 	<ul class="news-items"> 
