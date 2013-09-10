@@ -8,14 +8,161 @@
  *		3. CSS样式文件中z-index属性值必须在1-99之间
  *		4. CSS URL地址必须是淘宝URL白名单中或者本地（相对或绝对）URL 
  */
-.tshop-um-header {background: #ABA9A9; color: black; height: 150px; width: auto;}
+.tshop-um-header {height: 150px;}
+
 
 .tshop-um-header >div {display:block;}
  
 .tshop-um-header .logo {margin: 2px 2px;float:left;width:200px;}
 
-.tshop-um-header .logo .main-text {font-size: 24px; font-weight: 700; font-family: 'Microsoft yahei', "黑体", STHeiti,simsun,STXihei,"华文细黑",Verdana,Arial,sans-serif;}
+.tshop-um-header .logo a {text-decoration: none; }
 
-.tshop-um-header .taobao-quanqiugou-certificate {}
+.tshop-um-header .logo .link { 
+	text-align: right;
+	font-size: 16px;
+	margin-top: 5px;
+	font-weight: 700;
+	letter-spacing: -1px; 
+}
 
-.tshop-um-header .bookmark-my-shop {}
+.tshop-um-header .logo .main-title { 
+	text-align: right;
+	margin-top: -16px;
+	 }
+.tshop-um-header .logo .main-title .english{font-size: 40px; font-weight: 700; font-family: 'Comic Sans MS';}
+.tshop-um-header .logo .main-title .chinese{font-size: 20px; font-weight: 700; font-family: "华文细黑",Impact, Verdana,Arial,sans-serif;}
+
+.tshop-um-header .logo .sub-title 
+{
+	text-align: right; 
+	margin-top: -5px;
+}
+.tshop-um-header .logo .sub-title .english 
+{
+	font-size: 18px; font-weight: 700; font-family: 'Comic Sans MS';
+}
+
+.tshop-um-header .certificates {
+	float: right; 
+	width: 500px;
+}
+
+.tshop-um-header .certificates .taobao-quanqiugou{
+	float: left;
+	background: #000;
+}
+.tshop-um-header .certificates .taobao-quanqiugou .text 
+{
+	text-align: center;
+	font-weight: bold;
+	font-size: 24px;
+	color: #601E79;
+}
+
+.tshop-um-header .certificates .vertical-line
+{
+	padding-left: 3px;
+	padding-right: 3px;
+	width: 2px;
+	float: left;
+} 
+
+.tshop-um-header .certificates .bookmark-shop{
+{
+	float: left;
+}
+
+
+.tshop-um-header .top-notifications { 
+	background-color: black; 
+	color: #fff; height: 40px;  
+	z-index: 50;
+	}
+
+.tshop-um-header .top-notifications .news-warp { 
+	float: left; 
+	width: 345px;
+  height: 20px;
+  left: 0px;
+  padding-top: 10px;
+	}
+	
+
+.tshop-um-header .top-notifications .news-warp .news-ico { 
+width: 22px;
+height: 20px;
+float: left;
+margin-left: 1em;
+overflow: hidden;
+background: url('assets/images/s-ico.gif') no-repeat 2px -68px;	
+	}
+	
+
+.tshop-um-header .top-notifications .news-warp .gd-news 
+{ 
+	width: 300px;
+float: left;
+font-size: 14px;
+line-height: 15px;
+height: 18px;
+overflow: hidden;
+margin-left: 0px; 
+top: 0px;
+}
+
+.tshop-um-header .top-notifications .news-warp .gd-news ul 
+{
+	list-style: none;
+	margin: 0 1em;
+} 
+
+.tshop-um-header .top-notifications .news-warp .gd-news ul li
+{
+	text-align: left;
+	line-height: 18px;
+	width: 300px;
+	height: 18px;
+}
+
+
+.tshop-um-header .top-notifications .news-warp .gd-news ul li a 
+{
+	color: #fff;
+}
+
+.tshop-um-header .top-notifications .welcomeinfo { 
+	float: left; 
+	margin-top: 10px;
+	font-size: 14px;
+	color: #1952F7;
+	line-height: 18px;
+	letter-spacing:2px
+	}
+
+.tshop-um-header .top-notifications .imginfo { 
+	float: right; 
+	margin-top: 10px;
+	margin-right: 1em;
+	}
+
+.tshop-um-header .top-notifications .imginfo a { 
+	color: #FFF; 
+	display: inline-block;
+  margin-left: 8px;
+  padding-left: 15px;
+  line-height: 18px;
+  float: left;
+  font-size: 14px;
+}
+
+.tshop-um-header .top-notifications .imginfo a.myorder {
+	background: url('assets/images/s-ico.gif') no-repeat 0px 4px;
+}
+
+.tshop-um-header .top-notifications .imginfo a.mygwc {
+  background: url('assets/images/s-ico.gif') no-repeat 0px -20px;
+}
+
+.tshop-um-header .top-notifications .imginfo a.myfav {
+  background: url('assets/images/s-ico.gif') no-repeat 0px -43px;
+}
