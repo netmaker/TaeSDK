@@ -54,7 +54,21 @@
 		
 	</div>
 	
-	<div class="certificates">
+	<div class="certificates">		
+		<div class="crown-shop">
+			<div class="top-line">
+				<span class="image">
+					<img src='assets/images/s_cap_1.gif' alt="皇冠店铺" />
+				</span>		
+				<span class="text">忠诚的淘宝商家</span>
+			</div>
+			<div class="bottom-line">
+				<span class="image">
+					<img src='assets/images/real-products.png' alt="假一罚十" />
+				</span>			
+				<span class="text">切实保护消费者利益</span>				
+				</div>
+		</div>
 		<div class="taobao-quanqiugou">
 			<div class="image">
 			<a href="#" target="_blank">
@@ -69,9 +83,10 @@
 		</div>
 		<div class="bookmark-shop">
 			<a class="myfav J_TWidget" href="<?php echo $uriManager->favoriteLink(); ?>" target="_blank">
-				<img src='assets/images/bookmark-shop.jpg' alt="全球购" />
+				<img src='assets/images/bookmark-shop.jpg' alt="收藏店铺" height="83px" />
 		  </a>
 		</div>
+
 	</div>
 	
 

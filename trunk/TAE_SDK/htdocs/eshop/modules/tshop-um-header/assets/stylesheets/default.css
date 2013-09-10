@@ -8,7 +8,7 @@
  *		3. CSS样式文件中z-index属性值必须在1-99之间
  *		4. CSS URL地址必须是淘宝URL白名单中或者本地（相对或绝对）URL 
  */
-.tshop-um-header {height: 150px;}
+.tshop-um-header {height: 116px;}
 
 
 .tshop-um-header >div {display:block;}
@@ -18,7 +18,7 @@
 .tshop-um-header .top-notifications { 
 	background-color: #000; 
 	color: #fff; 
-	height: 40px;  
+	height: 30px;  
 	width: 950px;
 	}
 
@@ -26,7 +26,7 @@
 	float: left; 
 	width: 345px;
   height: 20px;
-  padding-top: 10px;
+  padding-top: 5px;
 	}
 	
 
@@ -74,7 +74,7 @@ top: 0px;
 
 .tshop-um-header .top-notifications .welcomeinfo { 
 	float: left; 
-	margin-top: 10px;
+	margin-top: 5px;
 	font-size: 14px;
 	color: #1952F7;
 	line-height: 18px;
@@ -83,7 +83,7 @@ top: 0px;
 
 .tshop-um-header .top-notifications .imginfo { 
 	float: right; 
-	margin-top: 10px;
+	margin-top: 5px;
 	margin-right: 1em;
 	}
 
@@ -116,22 +116,22 @@ top: 0px;
 .tshop-um-header .logo .link { 
 	text-align: right;
 	font-size: 16px;
-	margin-top: 5px;
+	margin-top: 0px;
 	font-weight: 700;
 	letter-spacing: -1px; 
 }
 
 .tshop-um-header .logo .main-title { 
 	text-align: right;
-	margin-top: -16px;
+	margin-top: -20px;
 	 }
-.tshop-um-header .logo .main-title .english{font-size: 40px; font-weight: 700; font-family: 'Comic Sans MS';}
+.tshop-um-header .logo .main-title .english{font-size: 38px; font-weight: 700; font-family: 'Comic Sans MS';}
 .tshop-um-header .logo .main-title .chinese{font-size: 20px; font-weight: 700; font-family: "华文细黑",Impact, Verdana,Arial,sans-serif;}
 
 .tshop-um-header .logo .sub-title 
 {
 	text-align: right; 
-	margin-top: -5px;
+	margin-top: -12px;
 }
 .tshop-um-header .logo .sub-title .english 
 {
@@ -139,13 +139,53 @@ top: 0px;
 }
 
 .tshop-um-header .certificates {
+	margin-top: 1px;
 	float: right; 
-	width: 500px;
+	width: 600px;
+}
+
+.tshop-um-header .certificates .crown-shop{
+	float: left;
+	vertical-align: middle;
+	display: table;
+}
+
+.tshop-um-header .certificates .crown-shop .top-line,
+.tshop-um-header .certificates .crown-shop .bottom-line 
+{
+	display: table-row;
+}
+
+.tshop-um-header .certificates .crown-shop .bottom-line 
+{
+	margin-top: 5px;
+
+}
+
+.tshop-um-header .certificates .crown-shop .bottom-line .image,
+.tshop-um-header .certificates .crown-shop .top-line .image,
+{
+	display: table-cell;
+	line-height: 0;
+	margin: 0;
+	padding: 0;
+} 
+
+.tshop-um-header .certificates .crown-shop .text 
+{
+	text-align: center;
+	font-weight: 500;
+	font-size: 14px;
+	color: #ffd700;
+	background-color: black;
+	margin-left: 5px;	
+	line-height: 30px;
 }
 
 .tshop-um-header .certificates .taobao-quanqiugou{
 	float: left;
-	background: #000;
+	height: 80px;
+	margin-left: 10px;
 }
 .tshop-um-header .certificates .taobao-quanqiugou .text 
 {
@@ -157,13 +197,15 @@ top: 0px;
 
 .tshop-um-header .certificates .vertical-line
 {
-	padding-left: 3px;
-	padding-right: 3px;
-	width: 2px;
+	margin-left: 5px;
+	margin-right: 5px;
+	color: white;
 	float: left;
 } 
 
 .tshop-um-header .certificates .bookmark-shop
 {
 	float: left;
+	margin-left: 10px;
+	line-height: 0;
 }
