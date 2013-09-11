@@ -13,5 +13,8 @@
         <theme name="Ä¬ÈÏ">
             <css>assets/stylesheets/default.css</css>
         </theme>
+        <theme name="ºÚ°×">
+            <css>assets/stylesheets/black-white.css</css>
+        </theme>
     </themes>
 </module>

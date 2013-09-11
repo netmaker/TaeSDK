@@ -88,7 +88,6 @@
 		</div>
 
 	</div>
-	
 
 <div class="J_TWidget hidden" data-widget-type="Popup" data-widget-config="{
           'trigger':'.first-trigger',
