@@ -8,6 +8,149 @@
  *		4. CSS URL地址必须是淘宝URL白名单中或者本地（相对或绝对）URL 
  */
 
-.tshop-um-header {}
+/* Color definitions */
+@news-bg-color: #A20000;
+@news-color: #FFF;
+@main-bg-color: #000;
+@main-color: #FFF;
+@nav-bg-color: #A20000;
+@nav-color: #FFF;
+@hover-bg-color: #F5003B;
+@purple-color: #601E79;
+@border-color: gray; 
 
- 
+/* font size */
+@news-font-size: 14px;
+@news-line-height: 15px; 
+
+.tshop-um-header {
+    height: 150px;
+    width: 950px;
+    font-size: @news-font-size;
+    .top-notifications {
+	height: 30px;
+	background-color: @news-bg-color;
+	.news-wrap {
+	    padding-top: 5px; 
+	    .news-ico {
+		width: 22px;
+		height: 20px;
+		float: left;
+		margin-left: 1em;
+		overflow: hidden;
+		background: url('assets/images/s-ico.gif') no-repeat 2px -68px;	
+		}
+	     .gd-news {
+		 width: 300px;
+		 float: left;
+		 overflow: hidden;
+		 line-height: @news-line-height;
+		 height: 18px;
+		 ul {
+		     list-style: none;
+		     margin: 0 1em;
+		     li {
+			 text-align: left;
+			 line-height: 18px;
+			 a {
+			     color: @news-color;
+			 }
+		     }
+		 }
+	     
+	    }
+
+
+	}
+	.imginfo {
+	    float: right;
+	    margin-right: 1em;
+	    a {
+		display: inline-block;
+		margin-left: 8px;
+		padding-left: 15px;
+		line-height: 18px;
+		float: left;
+		color: @news-color; 
+		
+		}
+	    .myorder {
+		background: url('assets/images/s-ico.gif') no-repeat 0px 4px;
+	    }
+	    .mygwc {
+		background: url('assets/images/s-ico.gif') no-repeat 0px -20px;
+	    }
+	    .myfav {
+		background: url('assets/images/s-ico.gif') no-repeat 0px -43px;
+	    }
+
+
+	}
+
+    }
+    .main-area {
+	background-color: @main-bg-color;
+	clear: both;
+	display: block;
+	height: 90px;
+	margin: 0;
+	padding: 0; 
+	.logo {
+	    margin: 2px 2px;
+	    float: left;
+	    width: 200px;
+	}
+	.certificates {
+	    margin-top: 4px;
+	    float: right;
+	    width: 340px;
+	    height: 86px;
+	    .taobao-quanqiugou {
+		float: left;
+		margin-left: 10px;
+		padding-left: 9px; 
+		border-left: 1px solid @border-color; 
+		.text {
+		    text-align: center;
+		    font-weight: bold;
+		    font-size: 23px;
+		    color: @main-color;
+		}
+	    }
+	    .bookmark-shop {
+		float: left;
+		margin-left: 10px;
+		line-height: 0;
+		border-left: 1px solid @border-color; 
+		a {
+		    :hover {
+                      opacity: 0.3; 
+		    } 
+                 }
+	    }
+	}
+    }
+
+    .top-nav {
+	height: 30px;
+	background-color: @nav-bg-color;
+	clear: both;
+	.menu-list {
+	    .menu {
+		float: left; 
+		a {
+		    line-height: 30px;
+		    height: 30px;
+		    color: @nav-color;
+		    :hover {
+			background-color: @hover-bg-color; 
+			}
+		    }
+		.link {
+		    display: inline-block;
+		    padding: 0 1em; 
+		    }
+		}
+	    }
+	}
+}
