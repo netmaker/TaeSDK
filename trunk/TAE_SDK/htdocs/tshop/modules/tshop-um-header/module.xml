@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="GBK"?>
+<module>
+    <id>tshop-um-header</id>
+    <uuid>e389e16485c34c17ba33c09e1133c097</uuid>
+    <name>自定义店招</name>
+    <file>tshop-um-header.php</file>
+    <thumbnail>../../assets/images/default-thumbnail.png</thumbnail>
+    <description>自定义店招。 这个模块需要一个显示产品分类的模块。</description>
+    <requiredCache>true</requiredCache>
+    <supportedWidth>950</supportedWidth>
+    <themes default="默认">
+        <theme name="默认">
+            <css>assets/stylesheets/default.css</css>
+        </theme>
+    </themes>
+</module>
