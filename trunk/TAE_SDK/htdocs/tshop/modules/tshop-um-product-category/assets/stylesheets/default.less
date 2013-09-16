@@ -1,0 +1,57 @@
+/**
+ * 模块：tshop-um-product-category 
+ * 皮肤（主题）: 默认
+ * 规则:
+ * 		1. CSS选择器必须包含 ".tshop-um-product-category"，禁止使用模块页面元素的ID选择器
+ *		2. CSS样式声明的position属性值不能使用:fixed
+ *		3. CSS样式文件中z-index属性值必须在1-99之间
+ *		4. CSS URL地址必须是淘宝URL白名单中或者本地（相对或绝对）URL 
+ */
+
+.tshop-um-product-category {
+    // The content wrapper for popup window
+    .nav-cats-hover {
+	padding: 0 8px;
+	text-align: left;
+	background: black;
+	opacity: 0.6;
+	color: white;
+	font-size: 13px;
+	.cats-bg {
+	    position: absolute;
+	    top: 0;
+	    left: -500px;
+	    width: 2200px;
+	    }
+	.cats-content {
+	    color: white;
+	    text-decoration: none;
+	    width: 934px;
+	    height: 400px;
+	    z-index: 5;
+	    zoom: 1;
+	    a { color: white; }
+	    h3 {
+		display: block;
+		font-weight: bold;
+		font-size: 15px;
+		line-height: 22px;
+		clear: both;
+		}
+	    .searchall {
+		margin-top: 10px;
+		:first-child { margin-top: 0px; }
+		.searchlinks {
+		    .subsection {
+			display: inline-block;
+			background-color: red;
+			margin: 2px 5px;
+			}
+		    }
+	    }
+
+        }
+    }
+}
+
+ 
