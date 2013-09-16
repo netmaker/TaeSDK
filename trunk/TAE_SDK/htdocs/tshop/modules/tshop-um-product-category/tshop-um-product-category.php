@@ -38,24 +38,24 @@
 						<a href="http://igoody.taobao.com/?search=y" target="_self" title="Coach包">Coach专区</a>
 					</h3>
 					<div class="searchlinks">
-						<a class="subsection" href="http://igoody.taobao.com/?search=y&orderType=_hotsell" target="_self" title="按销量">商品预览</a> :
-						<a href="http://igoody.taobao.com/?search=y&orderType=_newOn" target="_self" title="按新品">新款上市</a> |
-						<a href="http://igoody.taobao.com/?search=y&orderType=price" target="_self" title="按价格">杭州现货</a> 											
+						<a class="subsection" href="http://igoody.taobao.com/?search=y&orderType=_hotsell" target="_self" title="商品预览">商品预览</a> :
+						<a href="http://igoody.taobao.com/?search=y&orderType=_newOn" target="_self" title="新款上市">新款上市</a> |
+						<a href="http://igoody.taobao.com/?search=y&orderType=price" target="_self" title="杭州现货">杭州现货</a> 											
 					</div>					
 					<div class="searchlinks">
-						<a class="subsection" href="http://igoody.taobao.com/?search=y&orderType=price" target="_self" title="按价格">女士专区</a> :					
-						<a href="http://igoody.taobao.com/?search=y&orderType=_hotkeep" target="_self" title="按收藏">女士手提包</a> |		
-						<a href="http://igoody.taobao.com/?search=y&orderType=_hotsell" target="_self" title="按销量">女士单肩包</a> |
-						<a href="http://igoody.taobao.com/?search=y&orderType=_newOn" target="_self" title="按新品">女士钱包</a> |
-						<a href="http://igoody.taobao.com/?search=y&orderType=price" target="_self" title="按价格">女士手腕包</a> |
-						<a href="http://igoody.taobao.com/?search=y&orderType=price" target="_self" title="按价格">女士腰带</a> 											 											
+						<a class="subsection" href="http://igoody.taobao.com/?search=y&orderType=price" target="_self" title="女士专区">女士专区</a> :					
+						<a href="http://igoody.taobao.com/?search=y&orderType=_hotkeep" target="_self" title="女士手提包">女士手提包</a> |		
+						<a href="http://igoody.taobao.com/?search=y&orderType=_hotsell" target="_self" title="女士单肩包">女士单肩包</a> |
+						<a href="http://igoody.taobao.com/?search=y&orderType=_newOn" target="_self" title="女士钱包">女士钱包</a> |
+						<a href="http://igoody.taobao.com/?search=y&orderType=price" target="_self" title="女士手腕包">女士手腕包</a> |
+						<a href="http://igoody.taobao.com/?search=y&orderType=price" target="_self" title="女士腰带">女士腰带</a> 											 											
 					</div>
 					<div class="searchlinks">
-						<a class="subsection" href="http://igoody.taobao.com/?search=y&orderType=price" target="_self" title="按价格">男士专区</a> :					
-						<a href="http://igoody.taobao.com/?search=y&orderType=_hotkeep" target="_self" title="按收藏">男士手提包</a> |		
-						<a href="http://igoody.taobao.com/?search=y&orderType=_hotsell" target="_self" title="按销量">男士斜挎包</a> |
-						<a href="http://igoody.taobao.com/?search=y&orderType=_newOn" target="_self" title="按新品">男士钱包</a> |
-						<a href="http://igoody.taobao.com/?search=y&orderType=price" target="_self" title="按价格">男士皮带</a> 											
+						<a class="subsection" href="http://igoody.taobao.com/?search=y&orderType=price" target="_self" title="男士专区">男士专区</a> :					
+						<a href="http://igoody.taobao.com/?search=y&orderType=_hotkeep" target="_self" title="男士手提包">男士手提包</a> |		
+						<a href="http://igoody.taobao.com/?search=y&orderType=_hotsell" target="_self" title="男士斜挎包">男士斜挎包</a> |
+						<a href="http://igoody.taobao.com/?search=y&orderType=_newOn" target="_self" title="男士钱包">男士钱包</a> |
+						<a href="http://igoody.taobao.com/?search=y&orderType=price" target="_self" title="男士皮带">男士皮带</a> 											
 					</div>					
 				</div>
 			</div>
