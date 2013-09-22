@@ -22,10 +22,7 @@
 					style="width: 300px;float: left;line-height: 15px;height: 18px; overflow: hidden;">
 					<ul class="my-news-items" style="list-style: none;margin: 0 2em;">
 						<li style="text-align: left;line-height: 18px">
-						<a class="first-trigger" href="#" target="_blank" style="color:#fff;">新活动!</a></li>
-
-							<li style="text-align: left;line-height: 18px;">
-							<a href="#" target="_blank" style="color:#fff;">近期店招装修中,全方位展示</a></li>
+						<a class="first-trigger" href="#" target="_blank" style="color:#fff;">今日更新!</a></li>
 							</ul></div>
 						</div>
 
@@ -123,13 +120,16 @@
 					'trigger':'.first-trigger',
 					'align':{
 					'node':'.first-trigger',
-					'offset':[29,120],
+					'offset':[350,60],
 					'points':['cr','cc']
 					}
 					}">
-					<div style="background-color: #ABA9A9; height: 100px; width: 500px; border: 1px; ">
-						<div class="description">
-							<span>最新包 最新皮带</span>
+					<div style="background-color: #ABABAB; height: 90px; width: 950px; border: 1px; ">
+						<div class="description" style="font-size: 15px; color: blue; position: relative; top: 0; left: 0;" >
+							<h1 style="padding-left: 10px;padding-top: 10px;">
+							<span>Coach 鞋子</span>								
+							</h1>
+
 						</div>
 					</div>
 				</div>
