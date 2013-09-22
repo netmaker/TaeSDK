@@ -37,8 +37,9 @@
 
 	<div class="main-area">
 		<div class="logo">
-
-
+					<a href="#" target="http://igoody.taobao.com">
+						<img src='assets/images/logo.gif' alt="Oreya卖家" />
+					</a>
 		</div>
 
 		<div class="certificates">
@@ -71,6 +72,24 @@
 			<li class="menu">
 				<a class="link all-cats-link" href="#" ><span class="title">所有产品</span></a>
 			</li>
+			<li class="menu">
+				<a class="link all-cats-link" href="#" ><span class="title" style="color:red;">特惠产品</span></a>
+			</li>			
+			<li class="menu">
+				<a class="link new-arrival-link" href="#" ><span class="title">最新款式</span></a>
+			</li>
+			<li class="menu">
+				<a class="link season-link" href="#" ><span class="title">季节款</span></a>
+			</li>						
+			<li class="menu">
+				<a class="link woman-section-link" href="#"><span class="title">女士专区</span></a>
+			</li>
+			<li class="menu">
+				<a class="link man-section-link" href="#"><span class="title">男士专区</span></a>
+			</li>			
+			<li class="menu">
+				<a class="link about-link" href="#"><span class="title">关于我们</span></a>
+			</li>					
 		</div>
 	</div>
 
