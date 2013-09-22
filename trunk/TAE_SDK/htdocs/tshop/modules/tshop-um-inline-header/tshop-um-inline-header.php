@@ -75,7 +75,7 @@
 							<div class="taobao-quanqiugou" style="float: left;margin-left: 10px;padding-left: 9px;border-left: 1px solid #808080">
 								<div class="image">
 									<a href="#" target="_blank">
-									<img src="assets/images/taobao-quanqiugou.png" alt="全球购"/></a>
+									<img src="http://img02.taobaocdn.com/tps/i2/T1aT2qXklpXXcCXlfb-25-25.png" alt="全球购"/></a>
 								</div>
 								<div class="text" style="text-align: center;font-weight: bold;font-size: 23px;color: #fff">
 									<span>优质卖家</span>
