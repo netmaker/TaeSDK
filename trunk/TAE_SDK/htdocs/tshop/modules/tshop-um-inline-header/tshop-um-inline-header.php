@@ -105,31 +105,40 @@
 
 
 
-			<div class="top-nav" style="height: 30px;font-size: 16px;font-weight: bold;clear: both">
+			<div class="top-nav" style="height: 30px;font-size: 14px;font-weight: bold;clear: both">
 				<ul class="menu-list"><li class="menu" style="float: left">
-					<a class="link home-link" href="http://igoody.taobao.com/index.htm" style="text-decoration: none;color: #000;display: inline-block;margin: 0 1em;padding: 0 1em"><span class="title" style="display: inline-block;line-height: 30px;height: 30px">首页</span></a>
+					<a class="link home-link" href="http://igoody.taobao.com/index.htm" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;"><span class="title" style="display: inline-block;line-height: 30px;height: 30px">首页</span></a>
 				</li>
 				<li class="menu" style="float: left">
-					<a class="link all-cats-link" href="#" style="text-decoration: none;color: #000;display: inline-block;margin: 0 1em;"><span class="title" style="display: inline-block;line-height: 30px;height: 30px">所有产品</span></a>
+					<a class="link all-cats-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;"><span class="title" style="display: inline-block;line-height: 30px;height: 30px">所有产品</span></a>
 				</li>
 				<li class="menu" style="float: left">
-					<a class="link all-cats-link" href="#" style="text-decoration: none;color: #000;display: inline-block;margin: 0 1em;"><span class="title" style="color: red;display: inline-block;line-height: 30px;height: 30px">特惠产品</span></a>
+					<a class="link all-cats-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;"><span class="title" style="color: red;display: inline-block;line-height: 30px;height: 30px">新品上市</span></a>
 				</li>
 				<li class="menu" style="float: left">
-					<a class="link new-arrival-link" href="#" style="text-decoration: none;color: #000;display: inline-block;margin: 0 1em;"><span class="title" style="display: inline-block;line-height: 30px;height: 30px">最新款式</span></a>
+					<a class="link new-arrival-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;"><span class="title" style="display: inline-block;line-height: 30px;height: 30px">女包男包</span></a>
 				</li>
 				<li class="menu" style="float: left">
-					<a class="link season-link" href="#" style="text-decoration: none;color: #000;display: inline-block;margin: 0 1em;"><span class="title" style="display: inline-block;line-height: 30px;height: 30px">季节款</span></a>
+					<a class="link season-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;"><span class="title" style="display: inline-block;line-height: 30px;height: 30px">女鞋男鞋</span></a>
 				</li>
 				<li class="menu" style="float: left">
-					<a class="link woman-section-link" href="#" style="text-decoration: none;color: #000;display: inline-block;margin: 0 1em;"><span class="title" style="display: inline-block;line-height: 30px;height: 30px">女士专区</span></a>
+					<a class="link season-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;"><span class="title" style="display: inline-block;line-height: 30px;height: 30px">皮带腰带</span></a>
+				</li>				
+				<li class="menu" style="float: left">
+					<a class="link woman-section-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;"><span class="title" style="display: inline-block;line-height: 30px;height: 30px">女士专区</span></a>
 				</li>
 				<li class="menu" style="float: left">
-					<a class="link man-section-link" href="#" style="text-decoration: none;color: #000;display: inline-block;margin: 0 1em;"><span class="title" style="display: inline-block;line-height: 30px;height: 30px">男士专区</span></a>
+					<a class="link man-section-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;"><span class="title" style="display: inline-block;line-height: 30px;height: 30px">男士专区</span></a>
 				</li>
 				<li class="menu" style="float: left">
-					<a class="link about-link" href="#" style="text-decoration: none;color: #000;display: inline-block;margin: 0 1em;"><span class="title" style="display: inline-block;line-height: 30px;height: 30px">关于我们</span></a>
+					<a class="link about-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;"><span class="title" style="display: inline-block;line-height: 30px;height: 30px">品牌专区</span></a>
 				</li>
+				<li class="menu" style="float: left">
+					<a class="link about-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;"><span class="title" style="color: red; display: inline-block;line-height: 30px;height: 30px">特价清仓</span></a>
+				</li>					
+				<li class="menu" style="float: left">
+					<a class="link about-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;"><span class="title" style="display: inline-block;line-height: 30px;height: 30px">关于我们</span></a>
+				</li>				
 			</ul></div>
 		</div>
 
