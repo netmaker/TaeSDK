@@ -68,25 +68,18 @@
 					<img src="http://img02.taobaocdn.com/imgextra/i2/22629828/T2SA42XmpdXXXXXXXX_!!22629828.jpg" alt="Oreya卖家"/></a>
 				</div>
 
-				<div class="search-form" style="margin-left: 20px; margin-top: 20px; float: left; height: 50px; vertical-align: middle; line-height: 30px;">
+				<div style="margin-left: 20px; margin-top: 20px; float: left; height: 50px; vertical-align: middle; line-height: 30px;">
 					<form name="SearchForm" action="http://igoody.taobao.com/?search=y&amp;scene=taobao_shop" method="post">
-						<input class="search-form-input" style="display: block; float: left; width: 300px; font-size: 20px; line-height: 30px;" size="18" name="keyword" value="经典女包" type="text">
-						<button type="submit" class="search-form-btn" style="display: block; color:#fff;
-							padding:3px 20px 4px; float: left;
+						<input style="display: block; float: left; width: 300px; height: 30px; font-size: 20px; line-height: 30px;" size="18" name="keyword" value="经典女包" type="text">
+						<button type="submit" style="display: block; color:#fff;
+							padding:1px 20px 1px; float: left;
 							margin-left: 3px;
 							font-size: 14px; 
 							line-height: 25px;
-							text-shadow:0 1px 0;
-							border-top-color: #2c8ed1;
-							border-bottom-color: #0d5b97;
-							-webkit-transition:border-color .218s;-moz-transition:border .218s;-o-transition:border-color .218s;
-							transition:border-color .218s;
+							height: 32px;
 							background:#2181cf;
-							background:-webkit-gradient(linear,left top,left bottom,from(#37a3eb),to(#2181cf));
-							background:-moz-linear-gradient(linear,linear,left top,left bottom,from(#37a3eb),to(#2181cf));
-							border:solid 1px #1cb473;
 							border-radius:2px;
-						-webkit-border-radius:2px;-moz-border-radius:2px;cursor:pointer;height:auto;width:auto;overflow:visible;">搜索</button>
+						  cursor:pointer;height:auto;width:auto;overflow:visible;">搜索</button>
 						<input name="userId" value="" type="hidden">
 						<input name="shopId" value="33073918" type="hidden">
 						<input name="view_type" value="" type="hidden">
