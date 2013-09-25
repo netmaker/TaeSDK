@@ -1,7 +1,7 @@
 
 <div class="tb-module tshop-um tshop-um-inline-header" 
 	style="height: 150px;width: 950px;margin: auto;font-size: 14px">
-	<div class="top-notifications" style="padding-top: 5px; height: 25px; background: black; color: white;">
+	<div class="top-notifications" style="padding-top: 5px; height: 25px;">
 		<div class="news-wrap" style="height: 25px; float: left;">
 			<div class="news-ico" 
 				style="width: 22px;
@@ -22,7 +22,7 @@
 					style="width: 300px;float: left;line-height: 15px;height: 18px; overflow: hidden;">
 					<ul class="my-news-items" style="list-style: none;margin: 0 2em;">
 						<li style="text-align: left;line-height: 18px">
-						<a class="first-trigger" href="#" target="_blank" style="color:#fff;">今日更新!</a></li>
+						<a class="first-trigger" href="#" target="_blank" style="color:#FFF;">今日更新!</a></li>
 							</ul></div>
 						</div>
 
@@ -65,7 +65,7 @@
 					<div class="main-area" style="clear: both;display: block;height: 90px;margin: 0;padding: 0">
 						<div class="logo" style="margin-top: 2px;float: left;width: 200px">
 							<a href="#" target="http://igoody.taobao.com">
-							<img src="assets/images/logo.gif" alt="Oreya卖家"/></a>
+							<img src="http://img02.taobaocdn.com/imgextra/i2/22629828/T2SA42XmpdXXXXXXXX_!!22629828.jpg" alt="Oreya卖家"/></a>
 						</div>
 
 						<div class="certificates" style="margin-top: 4px;float: right;width: 340px;height: 86px">
