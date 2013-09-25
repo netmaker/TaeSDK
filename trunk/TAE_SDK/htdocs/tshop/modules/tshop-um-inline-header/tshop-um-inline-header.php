@@ -113,16 +113,16 @@
 					<a class="link all-cats-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;"><span class="title" style="display: inline-block;line-height: 30px;height: 30px">所有产品</span></a>
 				</li>
 				<li class="menu" style="float: left">
-					<a class="link all-cats-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;"><span class="title" style="color: red;display: inline-block;line-height: 30px;height: 30px">新品上市</span></a>
+					<a class="link new-arrival-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;"><span class="title" style="color: red;display: inline-block;line-height: 30px;height: 30px">新品上市</span></a>
 				</li>
 				<li class="menu" style="float: left">
-					<a class="link new-arrival-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;"><span class="title" style="display: inline-block;line-height: 30px;height: 30px">女包男包</span></a>
+					<a class="link bag-cats-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;"><span class="title" style="display: inline-block;line-height: 30px;height: 30px">女包男包</span></a>
 				</li>
 				<li class="menu" style="float: left">
-					<a class="link season-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;"><span class="title" style="display: inline-block;line-height: 30px;height: 30px">女鞋男鞋</span></a>
+					<a class="link shoe-cats-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;"><span class="title" style="display: inline-block;line-height: 30px;height: 30px">女鞋男鞋</span></a>
 				</li>
 				<li class="menu" style="float: left">
-					<a class="link season-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;"><span class="title" style="display: inline-block;line-height: 30px;height: 30px">皮带腰带</span></a>
+					<a class="link belt-cats-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;"><span class="title" style="display: inline-block;line-height: 30px;height: 30px">皮带腰带</span></a>
 				</li>				
 				<li class="menu" style="float: left">
 					<a class="link woman-section-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;"><span class="title" style="display: inline-block;line-height: 30px;height: 30px">女士专区</span></a>
@@ -131,10 +131,10 @@
 					<a class="link man-section-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;"><span class="title" style="display: inline-block;line-height: 30px;height: 30px">男士专区</span></a>
 				</li>
 				<li class="menu" style="float: left">
-					<a class="link about-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;"><span class="title" style="display: inline-block;line-height: 30px;height: 30px">品牌专区</span></a>
+					<a class="link brand-section-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;"><span class="title" style="display: inline-block;line-height: 30px;height: 30px">品牌专区</span></a>
 				</li>
 				<li class="menu" style="float: left">
-					<a class="link about-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;"><span class="title" style="color: red; display: inline-block;line-height: 30px;height: 30px">特价清仓</span></a>
+					<a class="link promotion-setion-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;"><span class="title" style="color: red; display: inline-block;line-height: 30px;height: 30px">特价清仓</span></a>
 				</li>					
 				<li class="menu" style="float: left">
 					<a class="link about-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;"><span class="title" style="display: inline-block;line-height: 30px;height: 30px">关于我们</span></a>
