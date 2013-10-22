@@ -1,6 +1,6 @@
 <div class="tb-module tshop-um tshop-um-inline-header"
   style="height: 150px;width: 950px;margin: auto;font-size: 14px">
-  <div class="top-notifications" style="padding-top: 5px; height: 25px; background-color: #ED5514;">
+  <div class="top-notifications" style="padding-top: 5px; height: 25px; background-color: #000;">
     <div class="news-wrap" style="height: 25px; float: left;">
       <div class="news-ico"
         style="width: 22px;
@@ -64,24 +64,24 @@
 
 
   <div class="main-area" style="clear: both;display: block;height: 90px;margin: 0;padding: 0">
-    <div class="logo" style="margin-top: 2px;float: left;width: 200px">
+    <div class="logo" style="margin-top: 12px;margin-left: 2px; float: left;width: 325px">
       <a href="#" target="http://igoody.taobao.com">
-        <img src="http://img02.taobaocdn.com/imgextra/i2/22629828/T2SA42XmpdXXXXXXXX_!!22629828.jpg" alt="Oreya卖家"/>
+        <img src="http://img01.taobaocdn.com/imgextra/i1/22629828/T2cil2Xq8aXXXXXXXX_!!22629828.jpg"  alt="Oreya卖家"/>
       </a>
     </div>
 
-    <div style="margin-left: 20px; margin-top: 20px; float: left; height: 50px; vertical-align: middle; line-height: 30px;">
+    <div style="margin-left: 20px; margin-top: 30px; float: left; height: 50px; vertical-align: middle; line-height: 30px;">
       <form name="SearchForm" action="http://igoody.taobao.com/?search=y&amp;scene=taobao_shop" method="post">
-        <input style="display: block; float: left; width: 300px; height: 30px; font-size: 20px; line-height: 30px;" size="18" name="keyword" value="经典女包" type="text"/>
+        <input style="display: block; float: left; width: 275px; height: 30px; font-size: 20px; line-height: 30px;" size="18" name="keyword" value="Coach" type="text"/>
         <button type="submit" style="display: block; color:#fff;
               padding:1px 20px 1px; float: left;
               margin-left: 3px;
               font-size: 14px; 
               line-height: 25px;
               height: 32px;
-              background:#2181cf;
+              background:#000;
               border-radius:2px;
-              cursor:pointer;height:auto;width:auto;overflow:visible;">本店搜索</button>
+              cursor:pointer;height:auto;width:auto;overflow:visible;">搜索本店</button>
         <input name="userId" value="" type="hidden"/>
         <input name="shopId" value="33073918" type="hidden"/>
         <input name="view_type" value="" type="hidden"/>
@@ -90,16 +90,13 @@
       </form>
     </div>
 
-    <div class="certificates" style="margin-top: 4px;float: right;width: 300px;height: 86px">
-      <div class="taobao-quanqiugou" style="float: left;margin-left: 10px;padding-left: 9px;">
+    <div class="certificates" style="margin-top: 4px;float: right;width: 200px;height: 86px">
+      <div class="taobao-quanqiugou" style="float: left;margin-left: 10px;padding-left: 9px; padding-top: 18px;">
         <div class="image">
           <a href="#" target="_blank">
-            <img src="http://img01.taobaocdn.com/tps/i1/T1NPnkXb8tXXaDCIDc-150-45.png" alt=""/>
+            <img src="http://img01.taobaocdn.com/tps/i1/T1NPnkXb8tXXaDCIDc-150-45.png" alt="全球购"/>
           </a>
-        </div>
-        <div class="text" style="text-align: center;font-weight: bold;font-size: 20px;color: #000">
-          <span>全球购优质卖家</span>
-        </div>
+        </div>        
       </div>
     </div>
 
@@ -122,7 +119,7 @@
       </li>
       <li class="menu" style="float: left">
         <a class="link new-arrival-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;">
-          <span class="title" style="color: red;display: inline-block;line-height: 30px;height: 30px">新品上市</span>
+          <span class="title" style="color: #FF4301;display: inline-block;line-height: 30px;height: 30px">新品上市</span>
         </a>
       </li>
       <li class="menu" style="float: left">
@@ -152,12 +149,12 @@
       </li>
       <li class="menu" style="float: left">
         <a class="link brand-section-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;">
-          <span class="title" style="display: inline-block;line-height: 30px;height: 30px">品牌专区</span>
+          <span class="title" style="display: inline-block;line-height: 30px;height: 30px; color: #FF4301;">品牌专区</span>
         </a>
       </li>
       <li class="menu" style="float: left">
         <a class="link promotion-section-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;">
-          <span class="title" style="color: red; display: inline-block;line-height: 30px;height: 30px">特价清仓</span>
+          <span class="title" style="display: inline-block;line-height: 30px;height: 30px">特价清仓</span>
         </a>
       </li>
       <li class="menu" style="float: left">
