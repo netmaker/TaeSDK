@@ -1,0 +1,10 @@
+      <li class="menu" style="float: left">
+        <a class="link all-cats-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;">
+          <span class="title" style="display: inline-block;line-height: 30px;height: 30px">所有产品</span>
+        </a>
+      </li>
+      <li class="menu" style="float: left">
+        <a class="link promotion-section-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;">
+          <span class="title" style="display: inline-block;line-height: 30px;height: 30px">特价清仓</span>
+        </a>
+      </li>

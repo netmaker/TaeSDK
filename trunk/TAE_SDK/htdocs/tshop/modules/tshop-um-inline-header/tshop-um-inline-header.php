@@ -108,15 +108,20 @@
   <div class="top-nav" style="height: 30px;font-size: 14px;font-weight: bold;clear: both; background-color: black;">
     <ul class="menu-list">
       <li class="menu" style="float: left">
-        <a class="link home-link" href="http://igoody.taobao.com/index.htm" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;">
+        <a class="link home-link" href="http://igoody.taobao.com" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;">
           <span class="title" style="display: inline-block;line-height: 30px;height: 30px">首页</span>
         </a>
       </li>
       <li class="menu" style="float: left">
-        <a class="link all-cats-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;">
-          <span class="title" style="display: inline-block;line-height: 30px;height: 30px">所有产品</span>
+        <a class="link killer-products-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;">
+          <span class="title" style="color: #daa520;display: inline-block;line-height: 30px;height: 30px">秒杀区</span>
         </a>
       </li>
+      <li class="menu" style="float: left">
+        <a class="link double-eleven-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;">
+          <span class="title" style="color: #daa520;display: inline-block;line-height: 30px;height: 30px">双11区</span>
+        </a>
+      </li>      
       <li class="menu" style="float: left">
         <a class="link new-arrival-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;">
           <span class="title" style="color: #FF4301;display: inline-block;line-height: 30px;height: 30px">新品上市</span>
@@ -152,11 +157,7 @@
           <span class="title" style="display: inline-block;line-height: 30px;height: 30px; color: #FF4301;">品牌专区</span>
         </a>
       </li>
-      <li class="menu" style="float: left">
-        <a class="link promotion-section-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;">
-          <span class="title" style="display: inline-block;line-height: 30px;height: 30px">特价清仓</span>
-        </a>
-      </li>
+
       <li class="menu" style="float: left">
         <a class="link about-link" href="#" style="text-decoration: none;color: #fff;display: inline-block;margin: 0 1em;">
           <span class="title" style="display: inline-block;line-height: 30px;height: 30px">关于我们</span>
